@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project name="linux-redneck/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github
+" revision="aosp" />
+        <project name="linux-redneck/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remo
+te="github" revision="eleven" />
+        <project name="linux-redneck/android_device_samsung_universal9810-common" path="device/samsung/universal981
+0-common" remote="github" revision="eleven" />
+        <project name="linux-redneck/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="el
+even" />
+        <project name="linux-redneck/android_hardware_samsung" path="hardware/samsung" remote="github" revision="el
+even" />
+</manifest>
